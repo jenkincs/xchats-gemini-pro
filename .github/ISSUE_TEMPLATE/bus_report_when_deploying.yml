@@ -14,7 +14,7 @@ body:
   - type: dropdown
     id: server
     attributes:
-      label: How is Gemini Pro Chat deployed?
+      label: How is XChats Gemini Pro deployed?
       description: Select the used deployment method.
       options:
         - Node

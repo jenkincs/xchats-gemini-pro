@@ -25,9 +25,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       injectRegister: 'inline',
       manifest: {
-        name: 'Gemini Pro Chat',
-        short_name: 'Gemini Pro',
-        description: 'Minimal web UI for Gemini Pro.',
+        name: 'XChats',
+        short_name: 'XChats',
+        description: 'Minimal web UI for ChatGPT using Gemini Pro.',
         theme_color: '#212129',
         background_color: '#ffffff',
         icons: [

@@ -1,5 +1,5 @@
 name: 🐞 Bug report (When using)
-description: Report an issue or possible bug when using `Gemini Pro Chat`
+description: Report an issue or possible bug when using `XChats Gemini Pro`
 labels: ['pending triage', 'use']
 body:
   - type: markdown
