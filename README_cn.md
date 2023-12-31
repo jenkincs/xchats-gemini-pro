@@ -11,7 +11,7 @@
 > 
 > 根据[《生成式人工智能服务管理暂行办法》](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)的要求，请勿对中国地区公众提供一切未经备案的生成式人工智能服务。
 
-[![image](https://github.com/babaohuang/GeminiProChat/assets/559171/d02fd440-401a-410d-a112-4b10935624c6)](https://xchats.top)
+[![image](https://github.com/jenkincs/xchats-gemini-pro/blob/main/public/xchats-chat-demo.png?raw=true)](https://xchats.top)
 
 ## 部署
 
