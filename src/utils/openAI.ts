@@ -1,4 +1,5 @@
 import { GoogleGenerativeAI } from '@fuyun/generative-ai'
+import type { ChatMessage } from '@/types'
 
 const apiKey = (import.meta.env.GEMINI_API_KEY)
 const apiBaseUrl = (import.meta.env.API_BASE_URL)?.trim().replace(/\/$/, '')
