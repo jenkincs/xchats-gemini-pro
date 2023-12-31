@@ -1,4 +1,4 @@
-# GeminiProChat
+# ChatGPT using GeminiPro API
 
 English | [中文](README_cn.md) | [Italiano](README_it.md)
 
